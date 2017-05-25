@@ -2,7 +2,9 @@
 /* CSS Document */
 
 @import url("css/bootstrap.css");
-
+.contact p a {
+    border: none;
+}
 a {
 	text-decoration: none;
 	color: #5c6d7f
@@ -20,7 +22,7 @@ body {
 	font-size:18px;
 	font-weight:100;
 	color:#6d6d6d
-	
+
 }
 input {
 	border-radius: 3px;
@@ -450,6 +452,3 @@ input, textarea {
 /******* END single *******/
 
 }
-
-
-
